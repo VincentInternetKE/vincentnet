@@ -33,9 +33,9 @@ const siteData = {
     business: {
         name: "Vincent Internet Services",
 
-        phoneDisplay: "0704446279",
+        phoneDisplay: "0754337542",
 
-        whatsappNumber: "254704446279"
+        whatsappNumber: "254754337542"
     },
 
 
